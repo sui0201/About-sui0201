@@ -192,26 +192,6 @@ My goal is to create digital products that are useful, understandable, and enjoy
 
 ⸻
 
-Development Philosophy
-
-I believe good development is not simply about writing code.
-
-A good product requires a combination of:
-
-Technology
-    +
-Design
-    +
-User Experience
-    +
-Problem Solving
-    +
-Communication
-
-I want to become someone who can understand a problem, design an appropriate solution, and turn that solution into a working product.
-
-⸻
-
 GitHub
 
 I use GitHub to organize my projects, experiments, and development work.
